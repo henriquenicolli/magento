@@ -1,0 +1,19 @@
+magento login:
+username: lagaridam
+password: overdose123
+
+Encryption Key:
+b25fb07e148403c8768fb4c48ea3bb81
+
+
+
+>>> backLog
+
+- semana 1 (05/01 - 11/01)
+[ok] - instalação local magento
+[ok] - tradução do site
+
+
+- semana 2 (12/01 - 18/01)
+[  ] - buscar cursos magento (1 dia)
+[  ] - finalizar curso magento
